@@ -1,0 +1,28 @@
+{
+  "name": "typescript-base64-arraybuffer",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/rrhett/typescript-base64-arraybuffer"
+  },
+  "author": {
+    "name": "Rhett Robinson",
+    "email": "rrhett@gmail.com"
+  },
+  "keywords": [
+    "typescript",
+    "javascript",
+    "arraybuffer",
+    "base64"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "http://github.com/rrhett/typescript-base64-arraybuffer/issues"
+  },
+  "main": "typescript-base64-arraybuffer.umd.js",
+  "module": "typescript-base64-arraybuffer.js",
+  "jsnext:main": "typescript-base64-arraybuffer.js",
+  "typings": "typescript-base64-arraybuffer.d.ts",
+  "peerDependencies": {
+  }
+}
